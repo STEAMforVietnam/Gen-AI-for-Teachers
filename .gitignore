@@ -163,3 +163,8 @@ cython_debug/
 
 .DS_Store
 **/.DS_Store
+
+
+# VISUAL STUDIO CODE
+# ==================
+*.code-workspace
